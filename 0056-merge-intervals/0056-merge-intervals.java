@@ -19,7 +19,7 @@ class Solution {
             for(int j=i+1;j<n;j++){
                 if(intervals[j][0]<=end){
                     end=Math.max(end,intervals[j][1]);
-                    i=j-1;//
+                   // i=j-1;
                 }
                 else{
                     break;
