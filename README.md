@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Binary Search
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
