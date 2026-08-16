@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0392-is-subsequence](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
