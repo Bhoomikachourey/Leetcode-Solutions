@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0509-fibonacci-number](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0169-majority-element) |
@@ -132,5 +134,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
