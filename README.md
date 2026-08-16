@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0316-remove-duplicate-letters](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -169,4 +170,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
