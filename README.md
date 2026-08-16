@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -135,5 +136,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
