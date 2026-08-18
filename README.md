@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1901-find-a-peak-element-ii](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/2643-row-with-maximum-ones) |
 ## Two Pointers
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/2643-row-with-maximum-ones) |
 ## Prefix Sum
 |  |
