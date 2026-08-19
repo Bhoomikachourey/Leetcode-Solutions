@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 ## Bit Manipulation
 |  |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0056-merge-intervals) |
+| [0455-assign-cookies](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 ## String
 |  |
 | ------- |
@@ -213,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0455-assign-cookies](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 ## Monotonic Stack
 |  |
 | ------- |
