@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Recursion
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0459-repeated-substring-pattern) |
+| [0678-valid-parenthesis-string](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0678-valid-parenthesis-string](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
 | ------- |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0435-non-overlapping-intervals](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 ## Monotonic Stack
 |  |
@@ -269,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Bhoomikachourey/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
